@@ -5,6 +5,7 @@ A simple but practical web scraping project to collect product data from a demo 
 
 This project is designed to simulate a **real-world data ingestion pipeline** (scraping → cleaning → storing).
 
+![This is an image](https://github.com/arienugroho050396/Web-Scraping-Project-Books-to-Scrape/blob/main/image.png) 
 ---
 
 ## 🚀 Project Overview
